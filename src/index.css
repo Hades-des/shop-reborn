@@ -68,11 +68,12 @@ header .shop-cart{
     top: 30px;
     right: 0;
     width: 450px;
-    min-height: 100px;
     background-color: #fafafa;
     -webkit-box-shadow: 4px 5px 15px -7px #606060; 
     box-shadow: 4px 5px 15px -7px #606060;
     z-index: 1000;
+
+    padding: 20px;
 }
 
 header .shop-cart .item{
